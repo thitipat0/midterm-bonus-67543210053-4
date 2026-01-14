@@ -1,0 +1,46 @@
+/* frontend/css/style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fa;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: #2563eb;
+    margin-bottom: 10px;
+}
+
+/* TODO: เพิ่ม styles สำหรับ:
+   - .toolbar
+   - .filters button
+   - .statistics
+   - .stat-card
+   - .book-list
+   - .book-card
+   - .modal
+   - .form-group
+   - buttons
+   - etc.
+*/
+
+/* ให้นักศึกษาออกแบบ CSS เอง */
