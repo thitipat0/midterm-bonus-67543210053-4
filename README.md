@@ -137,32 +137,3 @@ npm start
 | PATCH  | `/api/books/:id/return` | Update book status:available    |                   |
 | DELETE | `/api/books/:id`        | Delete a book                   | -                 |
 
-
-## 📡 Postman Test
-1.Get all books
-<img width="1070" height="880" alt="Screenshot 2026-01-14 144456" src="https://github.com/user-attachments/assets/94838d79-f072-4979-9fcc-55dbebf7fff2" />
-
-
-
-
-2.Get book by ID
-<img width="1068" height="875" alt="Screenshot 2026-01-14 144516" src="https://github.com/user-attachments/assets/cdab1892-db86-4393-a4d8-1b701bb0b547" />
-
-
-
-
-3.Create a new book
-<img width="1064" height="799" alt="Screenshot 2026-01-14 144635" src="https://github.com/user-attachments/assets/55165f0d-d527-4964-9f72-9aaa40947407" />
-
-
-
-
-
-4.Update book info
-<img width="1071" height="796" alt="Screenshot 2026-01-14 144822" src="https://github.com/user-attachments/assets/832d54c3-4ad4-473f-bcd4-d2c3398c74f3" />
-
-
-
-
-5.Delete a book
-<img width="1079" height="779" alt="Screenshot 2026-01-14 145833" src="https://github.com/user-attachments/assets/470f7c53-515f-4247-95bc-a955f5fe30dd" />
